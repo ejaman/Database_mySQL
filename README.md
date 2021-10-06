@@ -1,4 +1,4 @@
-# dbcourse
+# DatabaseAndSQL_class
 ⚠️2020 2학기 데이터베이스 설계 및 응용 수업에서 만든 팀프로젝트입니다.<br><br><br>
 
 
